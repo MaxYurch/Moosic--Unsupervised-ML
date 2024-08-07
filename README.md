@@ -1,3 +1,6 @@
+
+<img width="1230" alt="Easy Tunes" src="https://github.com/user-attachments/assets/0966029f-da6f-4bff-8370-4631c41debc0">
+
 **Unsupervised Machine Learning Project**
 
 *Moosic: Custom Playlist Generator*
